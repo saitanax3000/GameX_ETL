@@ -1,4 +1,4 @@
-Comandos Para la el proceso ETL de una base de datos en SQL
+# Proceso de Bussiness Intelligence para GameX tienda de venta juegos online
 
 Modelo:
 ![descargar](https://github.com/user-attachments/assets/145e718d-e31b-46f0-9272-3e6cda944a8f)
